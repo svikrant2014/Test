@@ -15,7 +15,7 @@
 
             head = prev; 
 
-            printallnodes();
+            //printallnodes();
         }
         
         // reverse a LinkedList using recursion
